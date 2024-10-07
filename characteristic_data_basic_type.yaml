@@ -1,0 +1,1358 @@
+characteristic_data_basic_type:
+- name: Device Name
+  basic_type: unknown
+  
+- name: Appearance
+  basic_type: unknown
+  
+- name: Peripheral Privacy Flag
+  basic_type: unknown
+  
+- name: Reconnection Address
+  basic_type: unknown
+  
+- name: Peripheral Preferred Connection Parameters
+  basic_type: unknown
+  
+- name: Service Changed
+  basic_type: unknown
+  
+- name: Alert Level
+  basic_type: unknown
+  
+- name: Tx Power Level
+  basic_type: unknown
+  
+- name: Date Time
+  basic_type: unknown
+  
+- name: Day of Week
+  basic_type: unknown
+  
+- name: Day Date Time
+  basic_type: unknown
+  
+- name: Exact Time 256
+  basic_type: unknown
+  
+- name: DST Offset
+  basic_type: unknown
+  
+- name: Time Zone
+  basic_type: unknown
+  
+- name: Local Time Information
+  basic_type: unknown
+  
+- name: Time with DST
+  basic_type: unknown
+  
+- name: Time Accuracy
+  basic_type: unknown
+  
+- name: Time Source
+  basic_type: unknown
+  
+- name: Reference Time Information
+  basic_type: unknown
+  
+- name: Time Update Control Point
+  basic_type: unknown
+  
+- name: Time Update State
+  basic_type: unknown
+  
+- name: Glucose Measurement
+  basic_type: unknown
+  
+- name: Battery Level
+  basic_type: uint
+  
+- name: Temperature Measurement
+  basic_type: unknown
+  
+- name: Temperature Type
+  basic_type: unknown
+  
+- name: Intermediate Temperature
+  basic_type: unknown
+  
+- name: Measurement Interval
+  basic_type: unknown
+  
+- name: Boot Keyboard Input Report
+  basic_type: unknown
+  
+- name: System ID
+  basic_type: unknown
+  
+- name: Model Number String
+  basic_type: unknown
+  
+- name: Serial Number String
+  basic_type: unknown
+  
+- name: Firmware Revision String
+  basic_type: unknown
+  
+- name: Hardware Revision String
+  basic_type: unknown
+  
+- name: Software Revision String
+  basic_type: unknown
+  
+- name: Manufacturer Name String
+  basic_type: unknown
+  
+- name: IEEE 1107320601 Regulatory Certification Data List
+  basic_type: unknown
+  
+- name: Current Time
+  basic_type: unknown
+  
+- name: Magnetic Declination
+  basic_type: unknown
+  
+- name: Scan Refresh
+  basic_type: unknown
+  
+- name: Boot Keyboard Output Report
+  basic_type: unknown
+  
+- name: Boot Mouse Input Report
+  basic_type: unknown
+  
+- name: Glucose Measurement Context
+  basic_type: unknown
+  
+- name: Blood Pressure Measurement
+  basic_type: unknown
+  
+- name: Intermediate Cuff Pressure
+  basic_type: unknown
+  
+- name: Heart Rate Measurement
+  basic_type: unknown
+  
+- name: Body Sensor Location
+  basic_type: unknown
+  
+- name: Heart Rate Control Point
+  basic_type: unknown
+  
+- name: Alert Status
+  basic_type: unknown
+  
+- name: Ringer Control Point
+  basic_type: unknown
+  
+- name: Ringer Setting
+  basic_type: unknown
+  
+- name: Alert Category ID Bit Mask
+  basic_type: unknown
+  
+- name: Alert Category ID
+  basic_type: unknown
+  
+- name: Alert Notification Control Point
+  basic_type: unknown
+  
+- name: Unread Alert Status
+  basic_type: unknown
+  
+- name: New Alert
+  basic_type: unknown
+  
+- name: Supported New Alert Category
+  basic_type: unknown
+  
+- name: Supported Unread Alert Category
+  basic_type: unknown
+  
+- name: Blood Pressure Feature
+  basic_type: unknown
+  
+- name: HID Information
+  basic_type: unknown
+  
+- name: Report Map
+  basic_type: unknown
+  
+- name: HID Control Point
+  basic_type: unknown
+  
+- name: Report
+  basic_type: unknown
+  
+- name: Protocol Mode
+  basic_type: unknown
+  
+- name: Scan Interval Window
+  basic_type: unknown
+  
+- name: PnP ID
+  basic_type: unknown
+  
+- name: Glucose Feature
+  basic_type: unknown
+  
+- name: Record Access Control Point
+  basic_type: unknown
+  
+- name: RSC Measurement
+  basic_type: unknown
+  
+- name: RSC Feature
+  basic_type: unknown
+  
+- name: SC Control Point
+  basic_type: unknown
+  
+- name: Aggregate
+  basic_type: unknown
+  
+- name: CSC Measurement
+  basic_type: unknown
+  
+- name: CSC Feature
+  basic_type: unknown
+  
+- name: Sensor Location
+  basic_type: unknown
+  
+- name: PLX SpotCheck Measurement
+  basic_type: unknown
+  
+- name: PLX Continuous Measurement
+  basic_type: unknown
+  
+- name: PLX Features
+  basic_type: unknown
+  
+- name: Cycling Power Measurement
+  basic_type: unknown
+  
+- name: Cycling Power Vector
+  basic_type: unknown
+  
+- name: Cycling Power Feature
+  basic_type: unknown
+  
+- name: Cycling Power Control Point
+  basic_type: unknown
+  
+- name: Location and Speed
+  basic_type: unknown
+  
+- name: Navigation
+  basic_type: unknown
+  
+- name: Position Quality
+  basic_type: unknown
+  
+- name: LN Feature
+  basic_type: unknown
+  
+- name: LN Control Point
+  basic_type: unknown
+  
+- name: Elevation
+  basic_type: unknown
+  
+- name: Pressure
+  basic_type: unknown
+  
+- name: Temperature
+  basic_type: unknown
+  
+- name: Humidity
+  basic_type: unknown
+  
+- name: True Wind Speed
+  basic_type: unknown
+  
+- name: True Wind Direction
+  basic_type: unknown
+  
+- name: Apparent Wind Speed
+  basic_type: unknown
+  
+- name: Apparent Wind Direction
+  basic_type: unknown
+  
+- name: Gust Factor
+  basic_type: unknown
+  
+- name: Pollen Concentration
+  basic_type: unknown
+  
+- name: UV Index
+  basic_type: unknown
+  
+- name: Irradiance
+  basic_type: unknown
+  
+- name: Rainfall
+  basic_type: unknown
+  
+- name: Wind Chill
+  basic_type: unknown
+  
+- name: Heat Index
+  basic_type: unknown
+  
+- name: Dew Point
+  basic_type: unknown
+  
+- name: Descriptor Value Changed
+  basic_type: unknown
+  
+- name: Aerobic Heart Rate Lower Limit
+  basic_type: unknown
+  
+- name: Aerobic Threshold
+  basic_type: unknown
+  
+- name: Age
+  basic_type: unknown
+  
+- name: Anaerobic Heart Rate Lower Limit
+  basic_type: unknown
+  
+- name: Anaerobic Heart Rate Upper Limit
+  basic_type: unknown
+  
+- name: Anaerobic Threshold
+  basic_type: unknown
+  
+- name: Aerobic Heart Rate Upper Limit
+  basic_type: unknown
+  
+- name: Date of Birth
+  basic_type: unknown
+  
+- name: Date of Threshold Assessment
+  basic_type: unknown
+  
+- name: Email Address
+  basic_type: unknown
+  
+- name: Fat Burn Heart Rate Lower Limit
+  basic_type: unknown
+  
+- name: Fat Burn Heart Rate Upper Limit
+  basic_type: unknown
+  
+- name: First Name
+  basic_type: unknown
+  
+- name: Five Zone Heart Rate Limits
+  basic_type: unknown
+  
+- name: Gender
+  basic_type: unknown
+  
+- name: Heart Rate Max
+  basic_type: unknown
+  
+- name: Height
+  basic_type: unknown
+  
+- name: Hip Circumference
+  basic_type: unknown
+  
+- name: Last Name
+  basic_type: unknown
+  
+- name: Maximum Recommended Heart Rate
+  basic_type: unknown
+  
+- name: Resting Heart Rate
+  basic_type: unknown
+  
+- name: Sport Type for Aerobic and Anaerobic Thresholds
+  basic_type: unknown
+  
+- name: Three Zone Heart Rate Limits
+  basic_type: unknown
+  
+- name: Two Zone Heart Rate Limits
+  basic_type: unknown
+  
+- name: VO2 Max
+  basic_type: unknown
+  
+- name: Waist Circumference
+  basic_type: unknown
+  
+- name: Weight
+  basic_type: unknown
+  
+- name: Database Change Increment
+  basic_type: unknown
+  
+- name: User Index
+  basic_type: unknown
+  
+- name: Body Composition Feature
+  basic_type: unknown
+  
+- name: Body Composition Measurement
+  basic_type: unknown
+  
+- name: Weight Measurement
+  basic_type: unknown
+  
+- name: Weight Scale Feature
+  basic_type: unknown
+  
+- name: User Control Point
+  basic_type: unknown
+  
+- name: Magnetic Flux Density  2D
+  basic_type: unknown
+  
+- name: Magnetic Flux Density  3D
+  basic_type: unknown
+  
+- name: Language
+  basic_type: unknown
+  
+- name: Barometric Pressure Trend
+  basic_type: unknown
+  
+- name: Bond Management Control Point
+  basic_type: unknown
+  
+- name: Bond Management Feature
+  basic_type: unknown
+  
+- name: Central Address Resolution
+  basic_type: unknown
+  
+- name: CGM Measurement
+  basic_type: unknown
+  
+- name: CGM Feature
+  basic_type: unknown
+  
+- name: CGM Status
+  basic_type: unknown
+  
+- name: CGM Session Start Time
+  basic_type: unknown
+  
+- name: CGM Session Run Time
+  basic_type: unknown
+  
+- name: CGM Specific Ops Control Point
+  basic_type: unknown
+  
+- name: Indoor Positioning Configuration
+  basic_type: unknown
+  
+- name: Latitude
+  basic_type: unknown
+  
+- name: Longitude
+  basic_type: unknown
+  
+- name: Local North Coordinate
+  basic_type: unknown
+  
+- name: Local East Coordinate
+  basic_type: unknown
+  
+- name: Floor Number
+  basic_type: unknown
+  
+- name: Altitude
+  basic_type: unknown
+  
+- name: Uncertainty
+  basic_type: unknown
+  
+- name: Location Name
+  basic_type: unknown
+  
+- name: URI
+  basic_type: unknown
+  
+- name: HTTP Headers
+  basic_type: unknown
+  
+- name: HTTP Status Code
+  basic_type: unknown
+  
+- name: HTTP Entity Body
+  basic_type: unknown
+  
+- name: HTTP Control Point
+  basic_type: unknown
+  
+- name: HTTPS Security
+  basic_type: unknown
+  
+- name: TDS Control Point
+  basic_type: unknown
+  
+- name: OTS Feature
+  basic_type: unknown
+  
+- name: Object Name
+  basic_type: unknown
+  
+- name: Object Type
+  basic_type: unknown
+  
+- name: Object Size
+  basic_type: unknown
+  
+- name: Object FirstCreated
+  basic_type: unknown
+  
+- name: Object LastModified
+  basic_type: unknown
+  
+- name: Object ID
+  basic_type: unknown
+  
+- name: Object Properties
+  basic_type: unknown
+  
+- name: Object Action Control Point
+  basic_type: unknown
+  
+- name: Object List Control Point
+  basic_type: unknown
+  
+- name: Object List Filter
+  basic_type: unknown
+  
+- name: Object Changed
+  basic_type: unknown
+  
+- name: Resolvable Private Address Only
+  basic_type: unknown
+  
+- name: Fitness Machine Feature
+  basic_type: unknown
+  
+- name: Treadmill Data
+  basic_type: unknown
+  
+- name: Cross Trainer Data
+  basic_type: unknown
+  
+- name: Step Climber Data
+  basic_type: unknown
+  
+- name: Stair Climber Data
+  basic_type: unknown
+  
+- name: Rower Data
+  basic_type: unknown
+  
+- name: Indoor Bike Data
+  basic_type: unknown
+  
+- name: Training Status
+  basic_type: unknown
+  
+- name: Supported Speed Range
+  basic_type: unknown
+  
+- name: Supported Inclination Range
+  basic_type: unknown
+  
+- name: Supported Resistance Level Range
+  basic_type: unknown
+  
+- name: Supported Heart Rate Range
+  basic_type: unknown
+  
+- name: Supported Power Range
+  basic_type: unknown
+  
+- name: Fitness Machine Control Point
+  basic_type: unknown
+  
+- name: Fitness Machine Status
+  basic_type: unknown
+  
+- name: Mesh Provisioning Data In
+  basic_type: unknown
+  
+- name: Mesh Provisioning Data Out
+  basic_type: unknown
+  
+- name: Mesh Proxy Data In
+  basic_type: unknown
+  
+- name: Mesh Proxy Data Out
+  basic_type: unknown
+  
+- name: Average Current
+  basic_type: unknown
+  
+- name: Average Voltage
+  basic_type: unknown
+  
+- name: Boolean
+  basic_type: unknown
+  
+- name: Chromatic Distance from Planckian
+  basic_type: unknown
+  
+- name: Chromaticity Coordinates
+  basic_type: unknown
+  
+- name: Chromaticity in CCT and Duv Values
+  basic_type: unknown
+  
+- name: Chromaticity Tolerance
+  basic_type: unknown
+  
+- name: CIE 13.31995 Color Rendering Index
+  basic_type: unknown
+  
+- name: Coefficient
+  basic_type: unknown
+  
+- name: Correlated Color Temperature
+  basic_type: unknown
+  
+- name: Count 16
+  basic_type: unknown
+  
+- name: Count 24
+  basic_type: unknown
+  
+- name: Country Code
+  basic_type: unknown
+  
+- name: Date UTC
+  basic_type: unknown
+  
+- name: Electric Current
+  basic_type: unknown
+  
+- name: Electric Current Range
+  basic_type: unknown
+  
+- name: Electric Current Specification
+  basic_type: unknown
+  
+- name: Electric Current Statistics
+  basic_type: unknown
+  
+- name: Energy
+  basic_type: unknown
+  
+- name: Energy in a Period of Day
+  basic_type: unknown
+  
+- name: Event Statistics
+  basic_type: unknown
+  
+- name: Fixed String 16
+  basic_type: unknown
+  
+- name: Fixed String 24
+  basic_type: unknown
+  
+- name: Fixed String 36
+  basic_type: unknown
+  
+- name: Fixed String 8
+  basic_type: unknown
+  
+- name: Generic Level
+  basic_type: unknown
+  
+- name: Global Trade Item Number
+  basic_type: unknown
+  
+- name: Illuminance
+  basic_type: unknown
+  
+- name: Luminous Efficacy
+  basic_type: unknown
+  
+- name: Luminous Energy
+  basic_type: unknown
+  
+- name: Luminous Exposure
+  basic_type: unknown
+  
+- name: Luminous Flux
+  basic_type: unknown
+  
+- name: Luminous Flux Range
+  basic_type: unknown
+  
+- name: Luminous Intensity
+  basic_type: unknown
+  
+- name: Mass Flow
+  basic_type: unknown
+  
+- name: Perceived Lightness
+  basic_type: unknown
+  
+- name: Percentage 8
+  basic_type: unknown
+  
+- name: Power
+  basic_type: unknown
+  
+- name: Power Specification
+  basic_type: unknown
+  
+- name: Relative Runtime in a Current Range
+  basic_type: unknown
+  
+- name: Relative Runtime in a Generic Level Range
+  basic_type: unknown
+  
+- name: Relative Value in a Voltage Range
+  basic_type: unknown
+  
+- name: Relative Value in an Illuminance Range
+  basic_type: unknown
+  
+- name: Relative Value in a Period of Day
+  basic_type: unknown
+  
+- name: Relative Value in a Temperature Range
+  basic_type: unknown
+  
+- name: Temperature 8
+  basic_type: unknown
+  
+- name: Temperature 8 in a Period of Day
+  basic_type: unknown
+  
+- name: Temperature 8 Statistics
+  basic_type: unknown
+  
+- name: Temperature Range
+  basic_type: unknown
+  
+- name: Temperature Statistics
+  basic_type: unknown
+  
+- name: Time Decihour 8
+  basic_type: unknown
+  
+- name: Time Exponential 8
+  basic_type: unknown
+  
+- name: Time Hour 24
+  basic_type: unknown
+  
+- name: Time Millisecond 24
+  basic_type: unknown
+  
+- name: Time Second 16
+  basic_type: unknown
+  
+- name: Time Second 8
+  basic_type: unknown
+  
+- name: Voltage
+  basic_type: unknown
+  
+- name: Voltage Specification
+  basic_type: unknown
+  
+- name: Voltage Statistics
+  basic_type: unknown
+  
+- name: Volume Flow
+  basic_type: unknown
+  
+- name: Chromaticity Coordinate
+  basic_type: unknown
+  
+- name: RC Feature
+  basic_type: unknown
+  
+- name: RC Settings
+  basic_type: unknown
+  
+- name: Reconnection Configuration Control Point
+  basic_type: unknown
+  
+- name: IDD Status Changed
+  basic_type: unknown
+  
+- name: IDD Status
+  basic_type: unknown
+  
+- name: IDD Annunciation Status
+  basic_type: unknown
+  
+- name: IDD Features
+  basic_type: unknown
+  
+- name: IDD Status Reader Control Point
+  basic_type: unknown
+  
+- name: IDD Command Control Point
+  basic_type: unknown
+  
+- name: IDD Command Data
+  basic_type: unknown
+  
+- name: IDD Record Access Control Point
+  basic_type: unknown
+  
+- name: IDD History Data
+  basic_type: unknown
+  
+- name: Client Supported Features
+  basic_type: unknown
+  
+- name: Database Hash
+  basic_type: unknown
+  
+- name: BSS Control Point
+  basic_type: unknown
+  
+- name: BSS Response
+  basic_type: unknown
+  
+- name: Emergency ID
+  basic_type: unknown
+  
+- name: Emergency Text
+  basic_type: unknown
+  
+- name: ACS Status
+  basic_type: unknown
+  
+- name: ACS Data In
+  basic_type: unknown
+  
+- name: ACS Data Out Notify
+  basic_type: unknown
+  
+- name: ACS Data Out Indicate
+  basic_type: unknown
+  
+- name: ACS Control Point
+  basic_type: unknown
+  
+- name: Enhanced Blood Pressure Measurement
+  basic_type: unknown
+  
+- name: Enhanced Intermediate Cuff Pressure
+  basic_type: unknown
+  
+- name: Blood Pressure Record
+  basic_type: unknown
+  
+- name: Registered User
+  basic_type: unknown
+  
+- name: BREDR Handover Data
+  basic_type: unknown
+  
+- name: Bluetooth SIG Data
+  basic_type: unknown
+  
+- name: Server Supported Features
+  basic_type: unknown
+  
+- name: Physical Activity Monitor Features
+  basic_type: unknown
+  
+- name: General Activity Instantaneous Data
+  basic_type: unknown
+  
+- name: General Activity Summary Data
+  basic_type: unknown
+  
+- name: CardioRespiratory Activity Instantaneous Data
+  basic_type: unknown
+  
+- name: CardioRespiratory Activity Summary Data
+  basic_type: unknown
+  
+- name: Step Counter Activity Summary Data
+  basic_type: unknown
+  
+- name: Sleep Activity Instantaneous Data
+  basic_type: unknown
+  
+- name: Sleep Activity Summary Data
+  basic_type: unknown
+  
+- name: Physical Activity Monitor Control Point
+  basic_type: unknown
+  
+- name: Physical Activity Current Session
+  basic_type: unknown
+  
+- name: Physical Activity Session Descriptor
+  basic_type: unknown
+  
+- name: Preferred Units
+  basic_type: unknown
+  
+- name: High Resolution Height
+  basic_type: unknown
+  
+- name: Middle Name
+  basic_type: unknown
+  
+- name: Stride Length
+  basic_type: unknown
+  
+- name: Handedness
+  basic_type: unknown
+  
+- name: Device Wearing Position
+  basic_type: unknown
+  
+- name: Four Zone Heart Rate Limits
+  basic_type: unknown
+  
+- name: High Intensity Exercise Threshold
+  basic_type: unknown
+  
+- name: Activity Goal
+  basic_type: unknown
+  
+- name: Sedentary Interval Notification
+  basic_type: unknown
+  
+- name: Caloric Intake
+  basic_type: unknown
+  
+- name: TMAP Role
+  basic_type: unknown
+  
+- name: Audio Input State
+  basic_type: unknown
+  
+- name: Gain Settings Attribute
+  basic_type: unknown
+  
+- name: Audio Input Type
+  basic_type: unknown
+  
+- name: Audio Input Status
+  basic_type: unknown
+  
+- name: Audio Input Control Point
+  basic_type: unknown
+  
+- name: Audio Input Description
+  basic_type: unknown
+  
+- name: Volume State
+  basic_type: unknown
+  
+- name: Volume Control Point
+  basic_type: unknown
+  
+- name: Volume Flags
+  basic_type: unknown
+  
+- name: Volume Offset State
+  basic_type: unknown
+  
+- name: Audio Location
+  basic_type: unknown
+  
+- name: Volume Offset Control Point
+  basic_type: unknown
+  
+- name: Audio Output Description
+  basic_type: unknown
+  
+- name: Set Identity Resolving Key
+  basic_type: unknown
+  
+- name: Coordinated Set Size
+  basic_type: unknown
+  
+- name: Set Member Lock
+  basic_type: unknown
+  
+- name: Set Member Rank
+  basic_type: unknown
+  
+- name: Encrypted Data Key Material
+  basic_type: unknown
+  
+- name: Apparent Energy 32
+  basic_type: unknown
+  
+- name: Apparent Power
+  basic_type: unknown
+  
+- name: Live Health Observations
+  basic_type: unknown
+  
+- name: "CO\\textsubscript{2} Concentration"
+  basic_type: unknown
+  
+- name: Cosine of the Angle
+  basic_type: unknown
+  
+- name: Device Time Feature
+  basic_type: unknown
+  
+- name: Device Time Parameters
+  basic_type: unknown
+  
+- name: Device Time
+  basic_type: unknown
+  
+- name: Device Time Control Point
+  basic_type: unknown
+  
+- name: Time Change Log Data
+  basic_type: unknown
+  
+- name: Media Player Name
+  basic_type: unknown
+  
+- name: Media Player Icon Object ID
+  basic_type: unknown
+  
+- name: Media Player Icon URL
+  basic_type: unknown
+  
+- name: Track Changed
+  basic_type: unknown
+  
+- name: Track Title
+  basic_type: unknown
+  
+- name: Track Duration
+  basic_type: unknown
+  
+- name: Track Position
+  basic_type: unknown
+  
+- name: Playback Speed
+  basic_type: unknown
+  
+- name: Seeking Speed
+  basic_type: unknown
+  
+- name: Current Track Segments Object ID
+  basic_type: unknown
+  
+- name: Current Track Object ID
+  basic_type: unknown
+  
+- name: Next Track Object ID
+  basic_type: unknown
+  
+- name: Parent Group Object ID
+  basic_type: unknown
+  
+- name: Current Group Object ID
+  basic_type: unknown
+  
+- name: Playing Order
+  basic_type: unknown
+  
+- name: Playing Orders Supported
+  basic_type: unknown
+  
+- name: Media State
+  basic_type: unknown
+  
+- name: Media Control Point
+  basic_type: unknown
+  
+- name: Media Control Point Opcodes Supported
+  basic_type: unknown
+  
+- name: Search Results Object ID
+  basic_type: unknown
+  
+- name: Search Control Point
+  basic_type: unknown
+  
+- name: Energy 32
+  basic_type: unknown
+  
+- name: Constant Tone Extension Enable
+  basic_type: unknown
+  
+- name: Advertising Constant Tone Extension Minimum Length
+  basic_type: unknown
+  
+- name: Advertising Constant Tone Extension Minimum Transmit Count
+  basic_type: unknown
+  
+- name: Advertising Constant Tone Extension Transmit Duration
+  basic_type: unknown
+  
+- name: Advertising Constant Tone Extension Interval
+  basic_type: unknown
+  
+- name: Advertising Constant Tone Extension PHY
+  basic_type: unknown
+  
+- name: Bearer Provider Name
+  basic_type: unknown
+  
+- name: Bearer UCI
+  basic_type: unknown
+  
+- name: Bearer Technology
+  basic_type: unknown
+  
+- name: Bearer URI Schemes Supported List
+  basic_type: unknown
+  
+- name: Bearer Signal Strength
+  basic_type: unknown
+  
+- name: Bearer Signal Strength Reporting Interval
+  basic_type: unknown
+  
+- name: Bearer List Current Calls
+  basic_type: unknown
+  
+- name: Content Control ID
+  basic_type: unknown
+  
+- name: Status Flags
+  basic_type: unknown
+  
+- name: Incoming Call Target Bearer URI
+  basic_type: unknown
+  
+- name: Call State
+  basic_type: unknown
+  
+- name: Call Control Point
+  basic_type: unknown
+  
+- name: Call Control Point Optional Opcodes
+  basic_type: unknown
+  
+- name: Termination Reason
+  basic_type: unknown
+  
+- name: Incoming Call
+  basic_type: unknown
+  
+- name: Call Friendly Name
+  basic_type: unknown
+  
+- name: Mute
+  basic_type: unknown
+  
+- name: Sink ASE
+  basic_type: unknown
+  
+- name: Source ASE
+  basic_type: unknown
+  
+- name: ASE Control Point
+  basic_type: unknown
+  
+- name: Broadcast Audio Scan Control Point
+  basic_type: unknown
+  
+- name: Broadcast Receive State
+  basic_type: unknown
+  
+- name: Sink PAC
+  basic_type: unknown
+  
+- name: Sink Audio Locations
+  basic_type: unknown
+  
+- name: Source PAC
+  basic_type: unknown
+  
+- name: Source Audio Locations
+  basic_type: unknown
+  
+- name: Available Audio Contexts
+  basic_type: unknown
+  
+- name: Supported Audio Contexts
+  basic_type: unknown
+  
+- name: Ammonia Concentration
+  basic_type: unknown
+  
+- name: Carbon Monoxide Concentration
+  basic_type: unknown
+  
+- name: Methane Concentration
+  basic_type: unknown
+  
+- name: Nitrogen Dioxide Concentration
+  basic_type: unknown
+  
+- name: NonMethane Volatile Organic Compounds Concentration
+  basic_type: unknown
+  
+- name: Ozone Concentration
+  basic_type: unknown
+  
+- name: Particulate Matter  PM1 Concentration
+  basic_type: unknown
+  
+- name: Particulate Matter  PM2.5 Concentration
+  basic_type: unknown
+  
+- name: Particulate Matter  PM10 Concentration
+  basic_type: unknown
+  
+- name: Sulfur Dioxide Concentration
+  basic_type: unknown
+  
+- name: Sulfur Hexafluoride Concentration
+  basic_type: unknown
+  
+- name: Hearing Aid Features
+  basic_type: unknown
+  
+- name: Hearing Aid Preset Control Point
+  basic_type: unknown
+  
+- name: Active Preset Index
+  basic_type: unknown
+  
+- name: Stored Health Observations
+  basic_type: unknown
+  
+- name: Fixed String 64
+  basic_type: unknown
+  
+- name: High Temperature
+  basic_type: unknown
+  
+- name: High Voltage
+  basic_type: unknown
+  
+- name: Light Distribution
+  basic_type: unknown
+  
+- name: Light Output
+  basic_type: unknown
+  
+- name: Light Source Type
+  basic_type: unknown
+  
+- name: Noise
+  basic_type: unknown
+  
+- name: Relative Runtime in a Correlated Color Temperature Range
+  basic_type: unknown
+  
+- name: Time Second 32
+  basic_type: unknown
+  
+- name: VOC Concentration
+  basic_type: unknown
+  
+- name: Voltage Frequency
+  basic_type: unknown
+  
+- name: Battery Critical Status
+  basic_type: unknown
+  
+- name: Battery Health Status
+  basic_type: unknown
+  
+- name: Battery Health Information
+  basic_type: unknown
+  
+- name: Battery Information
+  basic_type: unknown
+  
+- name: Battery Level Status
+  basic_type: unknown
+  
+- name: Battery Time Status
+  basic_type: unknown
+  
+- name: Estimated Service Date
+  basic_type: unknown
+  
+- name: Battery Energy Status
+  basic_type: unknown
+  
+- name: Observation Schedule Changed
+  basic_type: unknown
+  
+- name: Current Elapsed Time
+  basic_type: unknown
+  
+- name: Health Sensor Features
+  basic_type: unknown
+  
+- name: GHS Control Point
+  basic_type: unknown
+  
+- name: LE GATT Security Levels
+  basic_type: unknown
+  
+- name: ESL Address
+  basic_type: unknown
+  
+- name: AP Sync Key Material
+  basic_type: unknown
+  
+- name: ESL Response Key Material
+  basic_type: unknown
+  
+- name: ESL Current Absolute Time
+  basic_type: unknown
+  
+- name: ESL Display Information
+  basic_type: unknown
+  
+- name: ESL Image Information
+  basic_type: unknown
+  
+- name: ESL Sensor Information
+  basic_type: unknown
+  
+- name: ESL LED Information
+  basic_type: unknown
+  
+- name: ESL Control Point
+  basic_type: unknown
+  
+- name: UDI for Medical Devices
+  basic_type: unknown
+  
+- name: GMAP Role
+  basic_type: unknown
+  
+- name: UGG Features
+  basic_type: unknown
+  
+- name: UGT Features
+  basic_type: unknown
+  
+- name: BGS Features
+  basic_type: unknown
+  
+- name: BGR Features
+  basic_type: unknown
+  
+- name: Percentage 8 Steps
+  basic_type: unknown
+
+  
+    
+   
+ 
