@@ -954,22 +954,22 @@ characteristic_data_basic_type:
   basic_type: unknown
   
 - name: Volume State
-  basic_type: unknown
+  basic_type: struct
   
 - name: Volume Control Point
-  basic_type: unknown
+  basic_type: struct
   
 - name: Volume Flags
-  basic_type: unknown
+  basic_type: struct
   
 - name: Volume Offset State
-  basic_type: unknown
+  basic_type: struct
   
 - name: Audio Location
   basic_type: unknown
   
 - name: Volume Offset Control Point
-  basic_type: unknown
+  basic_type: struct
   
 - name: Audio Output Description
   basic_type: unknown
